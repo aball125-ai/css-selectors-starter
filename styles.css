@@ -341,6 +341,7 @@ input[type="submit"]:focus {
     width: 100px;
     height: 100px;
     background-color: var(--dv-lt-blue);
+    margin: 0 auto;
 }
 
 /* SOFTWARE LINKS */
